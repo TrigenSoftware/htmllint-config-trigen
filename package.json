@@ -1,0 +1,12 @@
+{
+  "name": "htmllint-config-trigen",
+  "version": "1.0.0",
+  "description": "Trigen's htmllint config",
+  "scripts": {
+    "postinstall": "node postinstall"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/TrigenSoftware/htmllint-config-trigen",
+  "author": "dangreen",
+  "license": "MIT"
+}
