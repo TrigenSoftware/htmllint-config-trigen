@@ -26,7 +26,7 @@ htmllintrcPath = path.join(projectRoot, '.htmllintrc');
 
 fs.writeFileSync(
 	htmllintrcPath,
-	JSON.stringify(config),
+	JSON.stringify(config, null, '  '),
 	'utf8'
 );
 
