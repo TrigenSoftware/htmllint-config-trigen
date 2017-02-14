@@ -6,7 +6,7 @@ Trigen's htmllint config.
 
 # Getting Started
 
- Install with npm
+Install with npm
 ```bash
 npm i -D htmllint-config-trigen
 ```
