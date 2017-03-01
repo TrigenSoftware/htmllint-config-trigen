@@ -26,6 +26,7 @@ module.exports = {
 		'property',
 		'pattern',
 		'required',
+		'placeholder',
 		'value',
 		'content',
 		'herf',
