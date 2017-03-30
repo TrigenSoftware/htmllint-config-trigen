@@ -7,8 +7,7 @@ module.exports = {
 		'longdesc',
 		'marginwidth',
 		'marginheight',
-		'scrolling',
-		'width'
+		'scrolling'
 	],
 	'attr-name-style':     'dash',
 	'attr-no-dup':         true,
@@ -34,7 +33,11 @@ module.exports = {
 		'defer',
 		'src',
 		'alt',
-		'target'
+		'target',
+		'srcset',
+		'sizes',
+		'width',
+		'height'
 	],
 	'attr-req-value':      true,
 	'class-no-dup':        true,
