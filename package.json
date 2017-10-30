@@ -1,16 +1,26 @@
 {
   "name": "htmllint-config-trigen",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Trigen's htmllint config",
+  "author": "dangreen",
+  "license": "MIT",
+  "main": "index.js",
   "scripts": {
     "postinstall": "node postinstall"
   },
-  "main": "index.js",
-  "repository": "https://github.com/TrigenSoftware/htmllint-config-trigen",
-  "author": "dangreen",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrigenSoftware/htmllint-config-trigen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrigenSoftware/htmllint-config-trigen/issues"
+  },
   "keywords": [
     "htmllint",
     "htmllint-config"
+  ],
+  "files": [
+    "index.js",
+    "postinstall.js"
   ]
 }
